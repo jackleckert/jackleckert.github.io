@@ -1,0 +1,17 @@
+
+{
+  "name": "Jack Leckert Portfolio",
+  "short_name": "JL Portfolio",
+  "description": "Portfolio website of Jack Leckert, a Software System Engineer specialized in Robotics and AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#2662d9",
+  "icons": [
+    {
+      "src": "/logo-no-bg.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ]
+}
