@@ -298,7 +298,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     system.
     By fine tuning the controller constants with several fly tests, the quadcopter was
     able to take-off vertically, fly stable in a straight line and land within 10cm
-    away from a given landing spot.`,image:"imgs/quadcopter_img.png",tags:["C","PID Control"],links:{github:"",report:"",live:Te.quadcopter_video}},{id:Mr-2,title:"Wildfire detection from drone camera",description:`Wildfires are increasingly becoming a source of economic and environmental
+    away from a given landing spot.`,image:"imgs/quadcopter_img.png",tags:["C++","PID Control"],links:{github:"",report:"",live:Te.quadcopter_video}},{id:Mr-2,title:"Wildfire detection from drone camera",description:`Wildfires are increasingly becoming a source of economic and environmental
     damage in California. The purpose of this project was to train several neural
     networks with RGB and thermal images enabling to detect autonomously a wildfire
     from a drone. As time is an essential parameter during a fire emergency response,
