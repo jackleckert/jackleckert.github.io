@@ -263,7 +263,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     needed to be added to the model in order to stabilize it. An MPC controller was
     then implemented on position and attitude enabling stable linear flight.
     Finally, a reinforcement learning policy (PPO) was developed to fly complex
-    trajectories without the use of any propellers.`,image:"imgs/flapping_drone_img.png",tags:["Python","C++","Mujoco","MPC","Reinforcement Learning"],links:{github:"",live:Te.flapping_wing_video,report:"docs/flapping_wing_report.pdf"}},{id:Mr-4,title:"Autonomous vehicles trajectory prediction",description:`As part of the INTERPRET single track challenge proposed by MSC laboratory at
+    trajectories without the use of any propellers.`,image:"imgs/flapping_drone_img.png",tags:["Python","C","Mujoco","MPC","Reinforcement Learning"],links:{github:"",live:Te.flapping_wing_video,report:"docs/flapping_wing_report.pdf"}},{id:Mr-4,title:"Autonomous vehicles trajectory prediction",description:`As part of the INTERPRET single track challenge proposed by MSC laboratory at
     UC Berkeley, this Ubuntu-based project builds upon Convolutional Neural
     Networks (CNN) and Multilayer Perceptrons (MLP) to develop a rasterized
     prediction model for autonomous driving. The network begins by rasterizing the
